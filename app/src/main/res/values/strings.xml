@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">MyRuns5</string>
+    <string name="button_change">change</string>
+    <string name="hint_input_name">your name here</string>
+    <string name="text_name">Name</string>
+    <string name="text_email">email</string>
+    <string name="hint_email_input">your email here</string>
+    <string name="text_phone">phone</string>
+    <string name="hint_input_phone">your phone number here</string>
+    <string name="text_class">class</string>
+    <string name="hint_class_input">e.g. 2012</string>
+    <string name="dialog_photo_picker_title">"choose photo from"</string>
+    <string name="button_save">save</string>
+    <string name="button_cancel">cancel</string>
+    <string name="tag_dialog_frag_photo_picker">dialog_frag_photo_picker</string>
+    <string name="text_gender">gender</string>
+    <string name="radio_female">female</string>
+    <string name="radio_male">male</string>
+    <string name="text_major">major</string>
+    <string name="hint_your_major">your major here</string>
+    <string name="text_profile_picture">profile picture</string>
+    <string-array name="dialog_img_picker_items">
+        <item>use camera</item>
+        <item>browse gallery</item>
+    </string-array>
+    <string-array name="input_type_array">
+        <item>Manual</item>
+        <item>GPS</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="act_type_array">
+        <item>Running</item>
+        <item>Downhill Skiing</item>
+        <item>Walking</item>
+        <item>Hiking</item>
+        <item>Skating</item>
+        <item>Swimming</item>
+        <item>Cycling</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_type">Input Type</string>
+    <string name="activity_type">Activity Type</string>
+    <string name="title_activity_manual_entry">Manual</string>
+    <string name="title_activity_map">Map</string>
+
+    <string name="text_start">start</string>
+    <string name="text_sync">sync</string>
+    <!-- Preference Titles -->
+    <string name="account_pref_header">Account Preferences</string>
+    <string name="additional_settings_header">Additional Settings</string>
+
+    <!-- Messages Preferences -->
+    <string name="comments_title">Comments</string>
+    <string name="unit_pref_title">Unit Preference</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="misc_header">Misc.</string>
+    <string name="title_profile">Name, Email, etc</string>
+    <string name="title_web_page">Webpage</string>
+    <string name="label_profile">Profile</string>
+    <string name="tag_dialog_frag_input">dialog fragment for input</string>
+    <string name="title_activity_history_item">HistoryItem</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="unit_entries">
+        <item>Metric(Km)</item>
+        <item>Imperial(Miles)</item>
+    </string-array>
+
+    <string-array name="unit_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+    <string-array name="pages">
+        <item>User Profile</item>
+    </string-array>
+    <string-array name="page_values">
+        <item>profile_activity</item>
+    </string-array>
+    <string-array name="website">
+        <item>http://web.cs.dartmouth.edu</item>
+    </string-array>
+    <string-array name="website_values">
+        <item>dartmouth_cs</item>
+    </string-array>
+</resources>
